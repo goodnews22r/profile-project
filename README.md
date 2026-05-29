@@ -23,14 +23,13 @@ A reusable Python program that interactively collects user profiles, validates i
 
 ---
 
-## Project Structure
+Project Structure
 profile-project/
 │
 ├── profile_manager.py
 ├── profile.json
 ├── README.md
 └── requirements.txt
-```
 
 ---
 
