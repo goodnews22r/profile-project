@@ -38,7 +38,7 @@ profile-project/
 ### 1. Clone the repository
 
 
-git clone <your-repository-link>
+git clone https://github.com/goodnews22r/profile-project.git
 
 
 ### 2. Navigate into the folder
